@@ -1,0 +1,38 @@
+[
+  {
+    "Dawai": "Patela",
+    "id": 100,
+    "MRP": 2460,
+    "Qt": 1,
+    "SP": 1350,
+    "Unit": "L"
+  },
+  {
+    "Dawai": "Active Star",
+    "MRP": 650,
+    "Qt": 1,
+    "SP": 550,
+    "Unit": "Kg"
+  },
+  {
+    "Dawai": "Nomination",
+    "MRP": 500,
+    "Qt": 250,
+    "SP": 500,
+    "Unit": "ml"
+  },
+  {
+    "Dawai": "Quick Super",
+    "MRP": 1990,
+    "Qt": 1,
+    "SP": 1350,
+    "Unit": "L"
+  },
+  {
+    "Dawai": "Laser",
+    "MRP": 1950,
+    "Qt": 1,
+    "SP": 1400,
+    "Unit": "L"
+  }
+]
